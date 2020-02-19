@@ -4,8 +4,8 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="filemanager",
-    version="0.0.1",
+    name="fileSrch",
+    version="0.0.2",
     author="goutam",
     author_email="goutam@protonmail.ch",
     description="A simple package for searching files",
